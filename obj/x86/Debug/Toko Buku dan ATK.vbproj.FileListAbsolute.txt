@@ -1,0 +1,37 @@
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\bin\Debug\Toko Buku dan ATK.exe
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\bin\Debug\Toko Buku dan ATK.pdb
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\bin\Debug\Toko Buku dan ATK.xml
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmPetugas.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.Resources.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.exe
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.xml
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.pdb
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmBarang.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmSatuan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmKategori.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmPelanggan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmPenjualan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmDataPelanggan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmDataBarang.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmSupplier.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmPembelian.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmDataSupplier.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\bin\Debug\Toko Buku dan ATK.exe.config
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLogin.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmMenuUtama.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmGantiPassword.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmCetakLapPembelian.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmCetakLapPenjualan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLapBarang.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLapPelanggan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLapPembelian.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLapPenjualan.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmLapSupplier.resources
+D:\Learning\Visual Basic\VB 2010\Program Aku\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko_Buku_dan_ATK.FrmFakturJual.resources
+D:\Dewi\test\Toko Buku dan ATK\Toko Buku dan ATK\bin\Debug\Toko Buku dan ATK.exe.config
+D:\Dewi\test\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.exe
+D:\Dewi\test\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.xml
+D:\Dewi\test\Toko Buku dan ATK\Toko Buku dan ATK\obj\x86\Debug\Toko Buku dan ATK.pdb
